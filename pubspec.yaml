@@ -1,5 +1,5 @@
 name: profile_image_selector
-description: A new Flutter package project.
+description: This widget allows the user to select an image from the gallery and display the cropped image.
 version: 0.0.1
 homepage: https://github.com/Yoshikawa-0918/profile_image_selector
 

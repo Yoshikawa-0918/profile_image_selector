@@ -1,7 +1,7 @@
 name: profile_image_selector
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Yoshikawa-0918/profile_image_selector
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
